@@ -252,5 +252,19 @@ namespace LogicTest
             gameLogicTest.PlayerShoot(shootTo, shootingSpeed);
             Assert.That(gameModelMock.Object.Projectiles.Count, Is.EqualTo(expectedProjectilesCount));
         }
+
+        /// <summary>
+        /// Tests the moving of projectiles.
+        /// </summary>
+        [Test]
+        public void MoveProjectile()
+        {
+            Point cords = new Point(100, 100);
+            Projectile p = new Projectile(new Point(100, 100), new Point(200, 200));
+            p.Speed = 10;
+            gameModelMock.Object.Projectiles.Add(p);
+            gameLogicTest.MoveProjectile(p);
+            Assert.That(p.Cords, Is.Not.EqualTo(cords));
+        }
     }
 }
