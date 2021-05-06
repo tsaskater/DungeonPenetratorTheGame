@@ -8,11 +8,12 @@ var searchData=
   ['levelexit_84',['LevelExit',['../class_model_1_1_game_model.html#a138f0b5930a92d18b27f966f47b9444d',1,'Model.GameModel.LevelExit()'],['../interface_model_1_1_i_game_model.html#a4ef0270f6158962bddd8349207f873ea',1,'Model.IGameModel.LevelExit()']]],
   ['levelfinished_85',['LevelFinished',['../class_model_1_1_game_model.html#a8cf3d8f63e0f1a6e06d75427ec4969a2',1,'Model.GameModel.LevelFinished()'],['../interface_model_1_1_i_game_model.html#a440fa493f0626d6981351baa69ce23f4',1,'Model.IGameModel.LevelFinished()']]],
   ['loadfilepath_86',['LoadFilePath',['../class_dungeon_penetrator_1_1_main_window.html#a40e54583bd4d990af3e68667fa9684cc',1,'DungeonPenetrator::MainWindow']]],
-  ['loadinglogic_87',['LoadingLogic',['../class_logic_1_1_loading_logic.html#ac90eb73649c72ad5d1c2cb9bdf414797',1,'Logic.LoadingLogic.LoadingLogic()'],['../class_logic_1_1_loading_logic.html',1,'Logic.LoadingLogic']]],
-  ['logic_88',['Logic',['../namespace_logic.html',1,'']]],
-  ['logictest_89',['LogicTest',['../namespace_logic_test.html',1,'']]],
-  ['lvlcounterheight_90',['LvlCounterHeight',['../class_model_1_1_ui_1_1_level_counter.html#aeb0a8186dfb928a729661a96f6802626',1,'Model::Ui::LevelCounter']]],
-  ['lvlcounterwidth_91',['LvlCounterWidth',['../class_model_1_1_ui_1_1_level_counter.html#aa6a99a2e2058def1e7d01c1793383f27',1,'Model::Ui::LevelCounter']]],
-  ['lvlcounterx_92',['LvlCounterX',['../class_model_1_1_ui_1_1_level_counter.html#aa4b1ba51f5d4a32e254f643835c80c8f',1,'Model::Ui::LevelCounter']]],
-  ['lvlcountery_93',['LvlCounterY',['../class_model_1_1_ui_1_1_level_counter.html#abbcce42e4f86159ecd5ca8d306edc121',1,'Model::Ui::LevelCounter']]]
+  ['loadgamewindow_87',['LoadGameWindow',['../class_dungeon_penetrator_1_1_load_game_window.html',1,'DungeonPenetrator']]],
+  ['loadinglogic_88',['LoadingLogic',['../class_logic_1_1_loading_logic.html#ac90eb73649c72ad5d1c2cb9bdf414797',1,'Logic.LoadingLogic.LoadingLogic()'],['../class_logic_1_1_loading_logic.html',1,'Logic.LoadingLogic']]],
+  ['logic_89',['Logic',['../namespace_logic.html',1,'']]],
+  ['logictest_90',['LogicTest',['../namespace_logic_test.html',1,'']]],
+  ['lvlcounterheight_91',['LvlCounterHeight',['../class_model_1_1_ui_1_1_level_counter.html#aeb0a8186dfb928a729661a96f6802626',1,'Model::Ui::LevelCounter']]],
+  ['lvlcounterwidth_92',['LvlCounterWidth',['../class_model_1_1_ui_1_1_level_counter.html#aa6a99a2e2058def1e7d01c1793383f27',1,'Model::Ui::LevelCounter']]],
+  ['lvlcounterx_93',['LvlCounterX',['../class_model_1_1_ui_1_1_level_counter.html#aa4b1ba51f5d4a32e254f643835c80c8f',1,'Model::Ui::LevelCounter']]],
+  ['lvlcountery_94',['LvlCounterY',['../class_model_1_1_ui_1_1_level_counter.html#abbcce42e4f86159ecd5ca8d306edc121',1,'Model::Ui::LevelCounter']]]
 ];

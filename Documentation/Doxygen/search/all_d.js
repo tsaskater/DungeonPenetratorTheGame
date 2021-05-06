@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['passivegameobjects_113',['PassiveGameObjects',['../class_model_1_1_passive_game_objects.html',1,'Model']]],
-  ['pausewindow_114',['PauseWindow',['../class_dungeon_penetrator_1_1_pause_window.html',1,'DungeonPenetrator']]],
+  ['passivegameobjects_114',['PassiveGameObjects',['../class_model_1_1_passive_game_objects.html',1,'Model']]],
   ['plains_115',['Plains',['../namespace_model.html#a88fd051782a9e050b0a35907143edcaaab363ecd5a875603fba968080c99ab007',1,'Model']]],
   ['play_116',['Play',['../interface_logic_1_1_i_loading_logic.html#a7e3aeee6baad4a9906dbfcccc8632ba6',1,'Logic.ILoadingLogic.Play()'],['../class_logic_1_1_loading_logic.html#a6476eac227e6f92fe5b6264d7179970c',1,'Logic.LoadingLogic.Play()']]],
   ['player_117',['Player',['../class_model_1_1_active_1_1_player.html',1,'Model.Active.Player'],['../namespace_model.html#a48cc5c07604f3e9a0e8fe02d73e59201a636da1d35e805b00eae0fcd8333f9234',1,'Model.Player()']]],
